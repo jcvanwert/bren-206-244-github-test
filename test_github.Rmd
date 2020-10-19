@@ -1,10 +1,13 @@
 ---
 title: "ESM 206/244 GitHub Testing"
+name: "Jacey Van Wert"
 output: html_document
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+library(tidyverse)
+library(janitor)
 ```
 
 Type your name (or anything else) HERE: 
